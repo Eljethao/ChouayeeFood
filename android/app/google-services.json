@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316478936513",
+    "project_id": "chouayeefood-84bbb",
+    "storage_bucket": "chouayeefood-84bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316478936513:android:6310c6b6d9b2598f084b40",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.chouayeefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316478936513-hfjthq6vq73btr8ha5vq26i7a2lf9fdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp5l0YBThS7ONnzeGvFxKa7QMq1rKMbxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316478936513-hfjthq6vq73btr8ha5vq26i7a2lf9fdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
